@@ -1,4 +1,4 @@
-# Chrome Extension for Retrieving Open Tab URLs [Creating a Chrome Extension to Retrieve URLs of All Open Tabs](https://vaibhavgagneja.hashnode.dev/how-to-create-a-chrome-extension-to-retrieve-urls-of-all-open-tabs)
+# [Chrome Extension for Retrieving Open Tab URLs](https://vaibhavgagneja.hashnode.dev/how-to-create-a-chrome-extension-to-retrieve-urls-of-all-open-tabs)
 
 This repository contains a Chrome extension that retrieves and displays URLs of all open tabs in your browser.
 
