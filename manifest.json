@@ -1,0 +1,24 @@
+{
+    "manifest_version": 3,
+    "name": "Get Open Tabs URLs",
+    "version": "1.0",
+    "permissions": [
+        "tabs"
+    ],
+    "background": {
+        "service_worker": "background.js"
+    },
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": {
+            "16": "dog_1998627.png",
+            "48": "dog_1998627 (1).png",
+            "128": "dog_1998627 (2).png"
+        }
+    },
+    "icons": {
+        "16": "dog_1998627.png",
+        "48": "dog_1998627 (1).png",
+        "128": "dog_1998627 (2).png"
+    }
+}

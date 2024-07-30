@@ -28,16 +28,5 @@ The purpose of this Chrome extension is to help users quickly access the URLs of
 
 ## Documentation
 
-For a detailed guide and additional information, check out my blog post: [Creating a Chrome Extension to Retrieve URLs of All Open Tabs](https://your-blog-link.com).
+For a detailed guide and additional information, check out my blog post: [Creating a Chrome Extension to Retrieve URLs of All Open Tabs](https://vaibhavgagneja.hashnode.dev/how-to-create-a-chrome-extension-to-retrieve-urls-of-all-open-tabs).
 
-## Contributing
-
-Feel free to submit issues or pull requests if you have suggestions or improvements.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Special thanks to the resources and tutorials that helped in building this extension.
